@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Help us squash bugs by giving us some info!
-title: ''
+title: '[Bug]'
 labels: bug
 assignees: msciotti
 
